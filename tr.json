@@ -778,15 +778,12 @@
     "spagetti",
     "saman",
     "et",
-	"poğaça",
     "sütyen",
-	"tost makinesi",
     "penguen",
     "sıcak çikolata",
     "kılıç",
     "çiğ köfte",
     "fotoğrafçı",
-	"işçi",
     "içmek",
     "omuz",
     "şempanze",
@@ -1045,7 +1042,7 @@
     "istiridye",
     "kırlangıç",
     "yılan",
-    "balkabağı",
+	"balkabağı",
     "vaşak",
     "ornitorenk",
     "peygamber devesi",
@@ -1066,8 +1063,7 @@
     "bukalemun",
     "ceylan",
     "hindi",
-    "sümüklü böcek",
-    "omlet",
-    "deney tüpü",
+    "sümüklü böcek"
+    "omlet"
   ]
 }
